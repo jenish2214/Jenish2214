@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**jenish2214/Jenish2214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=JENISH%20PATEL&fontSize=60&fontColor=00f5ff&animation=twinkling&fontAlignY=55&desc=FRONTEND%20ENGINEER%20%7C%20MOBILE%20DEV%20%7C%20AI-POWERED%20BUILDER&descSize=14&descAlignY=75&descColor=a855f7" width="100%"/>
@@ -35,7 +30,7 @@
 
 ### 🧬 `jenish.config.yaml`
 
-```yaml
+
 name:          Jenish Patel
 location:      Ahmedabad, Gujarat, India 🇮🇳
 role:          Frontend + Mobile Developer + AI Builder
@@ -56,7 +51,7 @@ status:        🟢 Open to Opportunities
 
 <br clear="right"/>
 
----
+
 
 ## 🚀 FEATURED PROJECTS
 
