@@ -30,7 +30,7 @@
 
 ### 🧬 `jenish.config.yaml`
 
-
+```yaml
 name:          Jenish Patel
 location:      Ahmedabad, Gujarat, India 🇮🇳
 role:          Frontend + Mobile Developer + AI Builder
@@ -51,7 +51,7 @@ status:        🟢 Open to Opportunities
 
 <br clear="right"/>
 
-
+---
 
 ## 🚀 FEATURED PROJECTS
 
